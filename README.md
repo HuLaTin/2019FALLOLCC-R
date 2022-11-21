@@ -1,5 +1,5 @@
 # 2019SpringOLCC-R
-Jupyter notebook files created for Spring 2019 Cheminformatics OLCC course.  These files were created by Hunter Tiner. R translation of the original Python curriculum.
+Jupyter notebook files created for Fall 2019 Cheminformatics OLCC course.  These files were created by Hunter Tiner. R translation of the original Python curriculum.
 
 
 https://chem.libretexts.org/Courses/Intercollegiate_Courses/Cheminformatics_OLCC_(2019)
